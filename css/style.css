@@ -116,15 +116,11 @@ legend
 {
     margin:30px 0;
 }
-td
-{
-    text-align: center;
-}
 table img
 {
     display: block;
     width: calc(100% - 20px);
-    margin-bottom: 10px;
+    margin: 10px;
 }
 table ul
 {
